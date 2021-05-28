@@ -1,6 +1,11 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo :D</h1>
 <h2 align="center">A FrontEnd Developer under construction.</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-da-luz-188332138/"><img src="https://img.shields.io/badge/-LeonardoLuz-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+   <a href="mailto:leoluzprog@gmail.com"><img src="https://img.shields.io/badge/-leoluzprog@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"</a>
+</p>
+    
 <a href="https://www.linkedin.com/in/leonardo-188332138/">
 <img align="center" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
