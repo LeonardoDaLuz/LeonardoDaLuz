@@ -1,5 +1,4 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo da Luz</h1>
-<div align="center">A FrontEnd Developer</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-da-luz-188332138/"><img src="https://img.shields.io/badge/-LeonardoLuz-blue?style=flat&logo=Linkedin&logoColor=white"></a>
