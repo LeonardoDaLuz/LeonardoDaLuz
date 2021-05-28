@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo :D</h1>
-<h2 align="center">A FrontEnd Developer under construction.</h2>
+<h2 align="center">A FrontEnd Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-da-luz-188332138/"><img src="https://img.shields.io/badge/-LeonardoLuz-blue?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -8,14 +8,8 @@
 
 
 ---------
-  
-  <img align="right" src="https://www.pinclipart.com/picdir/big/101-1014294_dab-emoji-png-transparent-pixel-art-facile-smiley.png" width="350"/>
-  
-  ### ⚙️: Frameworks
 
-
-  
-  ### 💻: Technologies
+### 💻: Technologies
   <p><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <p><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,9 +19,7 @@
  <p><img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
     <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/><p/>
   
-### :books: Learning
-
-  
+ 
   -------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDaLuz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
