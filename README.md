@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/leonardo-da-luz-188332138/"><img src="https://img.shields.io/badge/-LeonardoLuz-blue?style=flat&logo=Linkedin&logoColor=white"></a>
    <a href="mailto:leoluzprog@gmail.com"><img src="https://img.shields.io/badge/-leoluzprog@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"</a>
 </p>
+  
 ### 💻: Technologies
+  
   <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
