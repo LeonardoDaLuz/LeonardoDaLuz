@@ -19,6 +19,5 @@
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><p/>
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/><p/>
--------------------------
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoDaLuz&theme=dark&show_icons=true)
